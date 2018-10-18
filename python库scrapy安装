@@ -1,0 +1,18 @@
+周五上课前，希望大家安装好两个软件：
+一个是pycharm，我们这里社区版即可
+二是scrapy。scrapy的安装可以参考网上的一些安装方法，
+也可以参考下面的安装过程：
+1. Wheel: 
+pip install wheel
+2. Lxml：an efficient XML and HTML parser
+ http://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml
+找到版本合适的库下载到本地，按照下面的命令安装
+pip install  目录\文件
+3. pyOpenSSL：可以方便地进行一些加解密操作。
+ http://pypi.python.org/pypi/pyOpenSSL#downloads
+4. Twisted
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted
+5. Pywin32
+https://github.com/mhammond/pywin32/releases
+6. Scrapy
+     pip install scrapy
