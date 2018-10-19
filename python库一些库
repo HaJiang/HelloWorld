@@ -1,0 +1,7 @@
+各位同学，明天上课前最好能安装好下面几个库：
+requests
+selenium
+lxml
+beautifulsoup
+pyquery
+另外，需要安装chrome浏览器，以及安装chromedriver软件（可以在镜像站点http://npm.taobao.org/mirrors/chromedriver/下载安装）
